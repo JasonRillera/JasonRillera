@@ -1,5 +1,5 @@
-# Hi there 👋 Im Jason Rillera
-Im a Software Engineer and Choreographer with 11+ years of experience in delivering excellent customer service and business development. Passionate about technology and developing solutions that positively impact lives. 
+# Hi 👋 I'm Jason Rillera
+I'm a Software Engineer and Choreographer with 11+ years of experience in delivering excellent customer service and business development. Passionate about technology and developing solutions that positively impact lives. 
 
 Eager to leverage excellent communication, relationship management, diverse experience, and technical skills to a software team!
 
