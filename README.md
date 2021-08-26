@@ -4,7 +4,7 @@ I'm a Software Engineer and Choreographer with 11+ years of experience in delive
 Eager to leverage excellent communication, relationship management, diverse experience, and technical skills to a software team!
 
 ## Technical Skills
-- **Languages:** JavaScript | HTML | CSS | Python | SQL  
+- **Languages:** `JavaScript` | `HTML` | `CSS` | `Python` | `SQL`  
 - **Frameworks/Libraries:** React JS | Next JS | Redux | Tailwind CSS | Styled Components | Django | Bootstrap 
 - **Databases:** Firebase | Node JS | MySQL | SQLite
 - **Tools:** Git | Github | Adobe Creative Suite | VS Code | AWS | Vercel | Netlify | API
