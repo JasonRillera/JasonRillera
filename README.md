@@ -7,7 +7,7 @@ Eager to leverage excellent communication, relationship management, diverse expe
 - **Languages:** `JavaScript` | `HTML` | `CSS` | `Python` | `SQL`  
 - **Frameworks/Libraries:** `React JS` | `Next JS` | `Redux` | `Tailwind CSS` | `Styled Components` | `Django` | `Bootstrap` 
 - **Backend/Databases:** `Firebase` | `Node JS` | `MySQL` | `SQLite`
-- **Tools:** `Git` | `Github` | `Adobe Creative Suite` | `VS Code` | `AWS` | `Vercel` | `Netlify` | `API`
+- **Tools:** `Git` | `Github` | `Canva` | `Adobe Creative Suite` | `VS Code` | `AWS` | `Vercel` | `Netlify` | `API`
 
 <!--
 **JasonRillera/JasonRillera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
