@@ -6,7 +6,7 @@ Eager to leverage excellent communication, relationship management, diverse expe
 ## Technical Skills
 - **Languages:** `JavaScript` | `HTML` | `CSS` | `Python` | `SQL`  
 - **Frameworks/Libraries:** `React JS` | `Next JS` | `Redux` | `Tailwind CSS` | `Styled Components` | `Django` | `Bootstrap` 
-- **Databases:** `Firebase` | `Node JS` | `MySQL` | `SQLite`
+- **Backend/Databases:** `Firebase` | `Node JS` | `MySQL` | `SQLite`
 - **Tools:** `Git` | `Github` | `Adobe Creative Suite` | `VS Code` | `AWS` | `Vercel` | `Netlify` | `API`
 
 <!--
