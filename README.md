@@ -1,7 +1,7 @@
 # Hi 👋 I'm Jason Rillera
-I'm a Software Engineer and Choreographer with 11+ years of experience in delivering excellent customer service and business development. Passionate about technology and developing solutions that positively impact lives. 
+I am a Software Engineer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React and Next.js. I also have experience working with Python, and Django. 
 
-Eager to leverage excellent communication, relationship management, diverse experience, and technical skills to a software team!
+Take a look at my work or get in touch! www.jasonrillera.netlify.app
 
 ## Technical Skills
 - **Languages:** `JavaScript` | `HTML` | `CSS` | `Python` | `SQL`  
