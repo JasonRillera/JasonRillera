@@ -1,7 +1,7 @@
 # Hi 👋 I'm Jason Rillera
 I am a Software Engineer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React and Next.js. I also have experience working with Python, and Django. 
 
-Take a look at my work or get in touch! www.jasonrillera.netlify.app
+Take a look at my work or get in touch! https://jasonrillera.netlify.app/
 
 ## Technical Skills
 - **Languages:** `JavaScript` | `HTML` | `CSS` | `Python` | `SQL`  
